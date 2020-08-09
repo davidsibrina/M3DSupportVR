@@ -1,1 +1,2 @@
-# M3DSupportVR v1.4
+# M3DSupportVR
+# Virtual Reality Surgical Support Application by David Sibrina BA(Hons)
